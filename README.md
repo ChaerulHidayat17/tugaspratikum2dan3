@@ -19,3 +19,5 @@ c = int(input('Masukkan nilai c: '))
 # dan ini output nya 
 
 ![](gg.png)
+
+Itu adalah program mencari bilangan terbesar dari 3 bilangan yang di input
