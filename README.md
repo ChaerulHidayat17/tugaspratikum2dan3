@@ -31,10 +31,10 @@ _____________________________________________________________________________
 
 1. kita bikin variable dengan nama (jumlah) yang mempunyai nilai 5
 2. kita bikin variable ke 2 dengan nama (a) yang mempunyai nilai 0
-3. kita mencari nilai dengan menggunkan (FOR)
-for x in range(jumlah):
-    i = random.uniform(.0, .5)
-    a += 1
+3. kita mencari nilai dengan menggunkan (FOR) <br>
+for x in range(jumlah):<br>
+    i = random.uniform(.0, .5)<br>
+    a += 1 <br>
 4. cetak nilai data i
 5. print("data ke :", a, "===>", i)
 6. sehingga codingan nya seperti ini
