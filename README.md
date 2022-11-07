@@ -31,10 +31,10 @@ _____________________________________________________________________________
 
 1. kita bikin variable dengan nama (jumlah) yang mempunyai nilai 5
 2. kita bikin variable ke 2 dengan nama (a) yang mempunyai nilai 0
-3. kita mencari nilai dengan menggunkan (FOR)
-for x in range(jumlah):
-    i = random.uniform(.0, .5)
-    a += 1
+3. kita mencari nilai dengan menggunkan (FOR) <br>
+for x in range(jumlah):<br>
+    i = random.uniform(.0, .5)<br>
+    a += 1 <br>
 4. cetak nilai data i
 5. print("data ke :", a, "===>", i)
 6. sehingga codingan nya seperti ini
@@ -46,6 +46,33 @@ for x in range(jumlah):
 ![](2.png)
 
 Itulah cara mencari nilai bilangan random
-   
+
+--------------------------------------------------------------------------
+
+
+### _latihan2.py_
+
+Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
+Masukkan angka 0 untuk berhenti
+
+1. kita bikin variable dulu dengan nama variable (max) dengan nilai 0
+2. kita bikin while yang bernilai true mengulang terus sampe ada nya break
+3. kita bikin variale (a) dengan nilai inputan user
+4. kita bikin pengkondisian
+ if max < a:
+        max = a
+    if a == 0:
+        break
+5. print bilangan terbesar nya dari nilai (max)
+
+## Input codinngan nya
+
+![](3.png)
+
+## Output codingan nya
+![](4.png)
+
+Itulah program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
+
 
 
