@@ -21,3 +21,31 @@ c = int(input('Masukkan nilai c: '))
 ![](gg.png)
 
 Itu adalah program mencari bilangan terbesar dari 3 bilangan yang di input
+
+___________________________________________________________________________
+_____________________________________________________________________________
+
+### **Pratikum 3**
+
+## **Latihan 1.py**
+
+1. kita bikin variable dengan nama (jumlah) yang mempunyai nilai 5
+2. kita bikin variable ke 2 dengan nama (a) yang mempunyai nilai 0
+3. kita mencari nilai dengan menggunkan (FOR)
+for x in range(jumlah):
+    i = random.uniform(.0, .5)
+    a += 1
+4. cetak nilai data i
+5. print("data ke :", a, "===>", i)
+6. sehingga codingan nya seperti ini
+
+    ![](1.png)
+
+## dan OUTPUT nya nilai Random
+
+![](2.png)
+
+Itulah cara mencari nilai bilangan random
+   
+
+
