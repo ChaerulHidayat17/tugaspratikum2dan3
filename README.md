@@ -57,7 +57,7 @@ Masukkan angka 0 untuk berhenti
 
 1. kita bikin variable dulu dengan nama variable (max) dengan nilai 0
 2. kita bikin while yang bernilai true mengulang terus sampe ada nya break
-3. kita bikin variale (a) dengan nilai inputan user
+3. kita bikin variable (a) dengan nilai inputan user
 4. kita bikin pengkondisian
  if max < a:
         max = a
@@ -74,5 +74,32 @@ Masukkan angka 0 untuk berhenti
 
 Itulah program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
 
+----------------------------------------------------------------------------------
+-
+------------------------------------------------------------------------------------
+## **labpy03**
+###  input 
+![](5.png)
 
+### **Output**
+
+![](6.png)
+
+Berikut penjelasan dari labpy03
+
+masukkan nilai a
+
+gunakan for untuk perulangan dari 1 sampai 8.Perulangan for disebut counted loop (perulangan yang terhitung)
+
+lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2.masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2. cetak (x) dan (b)
+
+lalu gunakan if kedua untuk menentukan laba bulan ke 3 dan ke 4.masukan variabel (b) kalikan nilai (a) dengan data bulan 3 dan 4. cetak (x) dan (c)
+
+lalu gunakan if ketiga untuk menentukan laba bulan ke 5 sampai ke 7.masukan variabel (b) kalikan nilai (a) dengan data bulan 5 sampai 7. cetak (x) dan (d)
+
+lalu gunakan if keempat untuk menentukan laba bulan ke 8.masukan variabel (b) kalikan nilai (a) dengan data bulan 8. cetak (x) dan (e)
+
+lalu total keseluruhan.
+
+cetak total
 
